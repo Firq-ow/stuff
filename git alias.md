@@ -1,0 +1,1 @@
+Alias for showing a nicely formatted git tree in console: `alias.showtree log --graph --oneline --decorate --all`
